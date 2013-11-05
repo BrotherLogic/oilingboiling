@@ -31,6 +31,7 @@
         <configuration>
 	  <pushReleases>true</pushReleases>
 	  <noDeploy>true</noDeploy>
+	  <squash>true</squash>
         </configuration>
       </plugin>
 
