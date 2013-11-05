@@ -7,6 +7,12 @@
   <name>oilingboiling</name>
   <url>http://maven.apache.org</url>
 
+  <scm>
+    <connection>scm:git:git@github.com:brotherlogic/oilingboiling.git</connection>
+    <url>scm:git:git@github.com:brotherlogic/oilingboiling.git</url>
+    <developerConnection>scm:git:git@github.com:brotherlogic/oilingboiling.git</developerConnection>
+  </scm>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
