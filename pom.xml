@@ -30,6 +30,7 @@
         <version>1.0-alpha21.1</version>
         <configuration>
 	  <pushReleases>true</pushReleases>
+	  <noDeploy>true</noDeploy>
         </configuration>
       </plugin>
 
